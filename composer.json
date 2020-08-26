@@ -1,0 +1,22 @@
+{
+    "name": "cherryt/pkg",
+    "description": "package",
+    "type": "library",
+    "license":"MIT", 
+    "require": {
+	"php":">=7.0",    
+        "guzzlehttp/guzzle": ">=6.0"
+    },
+    "authors": [
+        {
+            "name": "shou",
+            "email": "1152804113@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+	"psr-4": {
+	     "cherryt\\Rose\\": "src/Flower/Rose"
+	 }
+    }
+}
