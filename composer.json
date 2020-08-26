@@ -15,8 +15,8 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-	"psr-4": {
-	     "cherryt\\Rose\\": "src/Flower/Rose"
-	 }
+        "psr-4": {
+              "mQiNiu\\FileUpload": "src/QiNuiu/FileUpload"
+         }
     }
 }
