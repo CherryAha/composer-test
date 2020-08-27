@@ -1,5 +1,5 @@
 {
-    "name": "cherryt/pkg",
+    "name": "cherryt/resptool",
     "description": "package",
     "type": "library",
     "license":"MIT", 
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-              "mQiNiu\\FileUpload": "src/QiNuiu/FileUpload"
+              "RspStr\\FuncString": "src/RspStr/FuncString"
          }
     }
 }
